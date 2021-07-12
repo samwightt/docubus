@@ -14,5 +14,5 @@ valico = "2"
 reqwest = "0.10.7"
 futures = "0.3.5"
 tokio = { version = "0.2.22", features = ["macros"] }
-anyhow = "1.0.32"
+anyhow = "1.0.42"
 base = { path = "../base" }
